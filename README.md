@@ -81,3 +81,5 @@ Copy the following configuration and press OK:
 }
 ```
 Set your actual secret key in the X-Secret-Key field to match the one in handlers.go.
+
+Make sure to set your image uploader to goimager in Destinations > Image Uploader > Custom Image Uploader.
